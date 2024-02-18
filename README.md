@@ -26,6 +26,18 @@ Each experiment is contained within its own directory in this repository. You ca
 
 Feel free to explore, experiment, and contribute to this repository. Your contributions are valuable in advancing the field of reinforcement learning!
 
+## To run
+
+1. go to anaconda's command prompt
+2. Type `conda activate bmrl`
+3. Then type `jupyter notebook`
+
+## To install environment
+
+Follow this instructions:
+![image](https://github.com/iamzayd/Reinforcement-Learning-Lab/assets/91972048/7d203996-ab37-4455-855f-166b548c23e3)
+
+
 ## Markdown Format
 
 You can find the Markdown format of this README file.
