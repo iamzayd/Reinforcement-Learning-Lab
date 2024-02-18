@@ -35,6 +35,8 @@ Feel free to explore, experiment, and contribute to this repository. Your contri
 ## To install environment
 
 Follow this instructions:
+
+
 ![image](https://github.com/iamzayd/Reinforcement-Learning-Lab/assets/91972048/7d203996-ab37-4455-855f-166b548c23e3)
 
 
